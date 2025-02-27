@@ -1,6 +1,7 @@
 # 📊 E-Commerce Sales Dashboard
 
 Welcome to the **E-Commerce Sales Dashboard** repository! This project provides a comprehensive visualization of sales data, enabling businesses to make data-driven decisions and enhance their e-commerce strategies.
+Heres the link to the interactive dashboard : https://app.powerbi.com/reportEmbed?reportId=ca1a72ca-3163-44f0-83ec-8abe79abd733&autoAuth=true&ctid=035a2c68-76b4-4eba-a15a-cbbca96868cd
 
 
 ## 🚀 Overview
